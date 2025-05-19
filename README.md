@@ -1,6 +1,20 @@
 # MaisPraTI_Tarefas
 Repositório de Listas de Tarefas para formação Desenvolvimento FullStack Junior
 
+# Pré-requisitos
+Node.js instalado em sua máquina.
+Biblioteca prompt-sync instalada. Caso não esteja instalada, execute o comando abaixo:
+npm install prompt-sync
+
+# Como Executar
+Clone este repositório:
+git clone https://github.com/afsmao/MaisPraTI_Tarefas;
+Execute o arquivo desejado com o Node.js:
+node <nome_do_arquivo>.js
+Siga as instruções exibidas no terminal.
+Acessar Rarefas_01.js
+node Tarefas_01.js
+
 # Exercícios de JavaScript com Estruturas de Controle e Loops
 
 Este repositório contém uma coleção de exercícios de programação em JavaScript focados no uso de estruturas de controle (if-else, switch-case) e loops (for, while, do-while). Os exercícios abordam desde verificações simples de números pares/ímpares até cálculos de IMC e geração da sequência de Fibonacci.
