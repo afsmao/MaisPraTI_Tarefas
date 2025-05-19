@@ -1,11 +1,6 @@
 # MaisPraTI_Tarefas
 Repositório de Listas de Tarefas para formação Desenvolvimento FullStack Junior
 
-# Pré-requisitos
-Node.js instalado em sua máquina.
-Biblioteca prompt-sync instalada. Caso não esteja instalada, execute o comando abaixo:
-npm install prompt-sync
-
 # Como Executar
 Clone este repositório:
 git clone https://github.com/afsmao/MaisPraTI_Tarefas;
