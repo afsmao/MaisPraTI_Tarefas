@@ -68,11 +68,11 @@ Para visualizar as páginas e interagir com os elementos:
 
 1.  Clone este repositório para a sua máquina local:
     ```bash
-    git clone https://URL-DO-SEU-REPOSITORIO.git
+    git clone https://github.com/afsmao/MaisPraTI_Tarefas.git
     ```
 2.  Navegue até a pasta do projeto.
 3.  Abra qualquer um dos arquivos `.html` (por exemplo, `index.html`) diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
 
-## 🖼️ Nota sobre as Imagens
+## 🖼️ Créditos das Imagens
 
-As imagens utilizadas neste projeto de demonstração foram geradas através da Inteligência Artificial do Google. Elas são utilizadas exclusivamente para fins educacionais e de portfólio.
+Todas as imagens visuais e banners utilizados neste projeto foram gerados pela **Inteligência Artificial do Google**. O uso destas imagens é estritamente para fins de demonstração e educacionais neste projeto de portfólio.
