@@ -1,41 +1,35 @@
 # Perfil Profissional - Projeto Web
 
-Este repositório contém um projeto de página pessoal, composto por uma página de entrada (`index.html`) e uma página de perfil detalhada (`perfil.html`). O objetivo é demonstrar habilidades em desenvolvimento web, utilizando tecnologias front-end modernas para construir um site que seja semântico, estilizado e responsivo.
+Este projeto apresenta uma página pessoal web, composta por uma tela inicial (`index.html`) e uma página de perfil detalhada (`perfil.html`). O objetivo é demonstrar habilidades em desenvolvimento front-end, utilizando HTML5 e CSS3 modernos para criar um site semântico, estilizado e responsivo.
 
-## Estrutura do Projeto
+## Estrutura
 
-O projeto é composto por dois arquivos HTML principais:
+- **`index.html`**: Página inicial simples, que direciona o visitante para o perfil completo.
+- **`perfil.html`**: Página com informações profissionais detalhadas, habilidades e projetos.
+- **`styles.css`**: Folha de estilos principal, aplicada ao perfil.
+- **`README.md`**: Documentação do projeto.
 
-1.  **`index.html`**: A página inicial que serve como uma porta de entrada simples e direciona os visitantes para o perfil completo.
-2.  **`perfil.html`**: A página de perfil profissional, onde as informações detalhadas, habilidades e projetos são apresentados.
+## Principais Tecnologias e Recursos
 
-## Estrutura de Arquivos
+- **HTML5 Semântico**: Estrutura clara e acessível.
+- **CSS3 Moderno**:
+  - Reset CSS para consistência entre navegadores.
+  - Variáveis CSS para facilitar o tema.
+  - Flexbox e Grid para layouts responsivos.
+  - Pseudo-classes/elements para interatividade.
+  - Media Queries para adaptação em diferentes telas.
+  - Transições para efeitos suaves.
+- **Google Fonts**: Tipografia personalizada.
+- **Favicon**: Ícone personalizado na aba do navegador.
 
-Todos os arquivos estão na raiz do repositório para simplificar:
+## Visualização
 
-- `index.html` (Página de entrada)
-- `perfil.html` (Página do perfil profissional)
-- `styles.css` (Folha de estilos para o `perfil.html`)
-- `README.md` (Este arquivo)
+Para visualizar o projeto, basta abrir o arquivo `index.html` em seu navegador. Caso esteja publicado no GitHub Pages, acesse:
 
-## Tecnologias Utilizadas
+```
+https://seu-usuario.github.io/seu-repositorio/
+```
 
-* **HTML5 Semântico:** Para uma estrutura clara e acessível em ambas as páginas.
-* **CSS3 Moderno:**
-    * **Reset CSS:** Para garantir consistência visual entre diferentes navegadores.
-    * **Variáveis CSS:** Para um gerenciamento de tema mais fácil e consistente.
-    * **Flexbox e CSS Grid:** Para a criação de layouts complexos e responsivos.
-    * **Pseudo-classes e Pseudo-elementos:** Para adicionar interatividade e detalhes visuais.
-    * **Media Queries:** Para garantir que o layout se adapte perfeitamente a qualquer tamanho de tela (design responsivo).
-* **Recursos Adicionais:**
-    * **Google Fonts:** Para uma tipografia mais elegante.
-    * **Favicon:** Para personalizar o ícone da aba do navegador.
-    * **Transições CSS:** Para criar efeitos suaves e uma melhor experiência de usuário.
+A navegação entre as páginas é feita através dos links presentes na interface.
 
-## Como Visualizar
-
-Para ver o projeto online, acesse o link do GitHub Pages (se configurado):
-
-`https://seu-usuario.github.io/seu-repositorio/`
-
-A página inicial (`index.html`) será carregada primeiro, e a partir dela, você pode navegar para o perfil completo.
+---
